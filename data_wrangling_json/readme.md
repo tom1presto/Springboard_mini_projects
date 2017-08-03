@@ -8,6 +8,7 @@ Open this file using Jupyter Notebook
 
 Three tasks were attempted and completed:
   1. Identify the counties with the 10 most World Bank Projects
+  
     1.1. I first loaded the data, acquired the necessary dataframe, sorted, and viewed the top 10 entries
     1.2. I was not satisfied with a whole continent being included in the country list, so extracted any continent references and re-aquired the list of top 10 countries, using only countries
   
