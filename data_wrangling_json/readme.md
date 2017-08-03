@@ -1,5 +1,5 @@
 ***********************************************
-* Data Wrangling Project: Using JSON datasets *
+Data Wrangling Project: Using JSON datasets
 ***********************************************
 
 My completed assignment is stored as Scheinert_json_exercise_working.ipynb
