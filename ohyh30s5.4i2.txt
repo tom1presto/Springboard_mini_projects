@@ -1,0 +1,11 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch working_branch
+# Your branch is up-to-date with 'origin/working_branch'.
+#
+# Changes to be committed:
+#	renamed:    data_wrangling_json/sliderule_dsi_json_exercise.ipynb -> data_wrangling_json/.ipynb_checkpoints/Scheinert_json_exercise_working-checkpoint.ipynb
+#	new file:   data_wrangling_json/Scheinert_json_exercise_working.ipynb
+#
+
