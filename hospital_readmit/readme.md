@@ -1,6 +1,6 @@
 # Springboard Exploratory Data Analysis Exercise 3: Hospital Readmissions
 
-Note: The IPyNotebook is not displaying correctly in a browser. Options are being reviewed to address this issue. For now, I recommend
+Note (**fixed**): The IPyNotebook is not displaying correctly in a browser. Options are being reviewed to address this issue. For now, I recommend
 downloading the notebook in order to read and review it.
 
 The assignment asked for an assessment of an existing statistical analysis. This analysis was flawed by failing to show the effect size
